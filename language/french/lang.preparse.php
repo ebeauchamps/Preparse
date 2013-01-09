@@ -1,14 +1,14 @@
-﻿<?php
+<?php
 
 /**
- * Solspace - Preparse
+ * Preparse - Language
  *
  * @package 	Solspace:Preparse
- * @author		Solspace DevTeam
- * @copyright	Copyright (c) 2008-2012, Solspace, Inc.
- * @link		http://solspace.com/docs/addon/c/Preparse
+ * @author		Solspace, Inc.
+ * @copyright	Copyright (c) 2008-2013, Solspace, Inc.
+ * @link		http://solspace.com/docs/Preparse
  * @version		2.0.3
- * @filesource 	./system/expressionengine/third_party/preparse/language/english/
+ * @filesource 	preparse/language/french/lang.preparse.php
  */
 
 $lang = $L = array(
@@ -81,6 +81,6 @@ $lang = $L = array(
 );
 
 /* End of file lang.preparse.php */
-/* Location: ./system/modules/extensions/preparse/language/french/lang.preparse.php */
+/* Location: ./system/expressionengine/thirdparty/preparse/language/french/lang.preparse.php */
 
 ?>
